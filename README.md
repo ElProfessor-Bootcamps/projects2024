@@ -18,3 +18,8 @@ Repository with some projects about and practice of coding that may include but 
 * NLU
 * LLMs
 * Prompt Engineering
+
+  
+List of Projects Week 1
+
+* Resume Screening App with Python
